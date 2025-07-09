@@ -15,4 +15,4 @@ Sou um Analista de Dados apaixonado por transformar dados em insights acionávei
 
 ---
 
-🎯 **Aberto a oportunidades em análise de dados, BI ou projetos com foco em dados.
+🎯 Aberto a oportunidades em análise de dados, BI ou projetos com foco em dados.
