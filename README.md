@@ -1,18 +1,18 @@
 # 👋 Olá! Eu sou Henricky!
 
-Sou um Analista de Dados apaixonado por transformar dados em insights acionáveis. Tenho experiência com Python, SQL, visualização de dados e projetos de análise exploratória. Atualmente estou em busca de oportunidades na área de dados.
+Sou o Henricky, **Analista de Dados**, com interesse em aplicar técnicas de **coleta, limpeza, análise e visualização de dados** para gerar insights úteis em cenários reais, especialmente ligados a negócios e comportamento de mercado.
 
-## 🔧 Tecnologias e Ferramentas
+## Habilidades
 
-- **Linguagens:** Python, SQL
-- **Análise e Visualização:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Linguagens:** Python(Pandas, Numpy), SQL
+- **Análise e Visualização:** Power BI, Matplotlib, Seaborn
 - **Banco de Dados:** PostgreSQL, MySQL
 
-## 📫 Contato
+## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/henrickyserrao/)
-- Email: henrickyserrao@gmail.com
+- [Email](henrickyserrao@gmail.com)
 
 ---
 
-🎯 Aberto a oportunidades em análise de dados, BI ou projetos com foco em dados.
+Aberto a oportunidades em análise de dados, BI ou projetos com foco em dados.
